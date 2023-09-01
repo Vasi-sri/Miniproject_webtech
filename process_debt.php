@@ -18,6 +18,6 @@
     }
     ?>
     
-    <a href="index.html">Go back</a>
+    <a href="in.html">Go back</a>
 </body>
 </html>
